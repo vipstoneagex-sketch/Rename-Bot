@@ -47,6 +47,6 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
     METADATA_TXT = """<b><u>🖼️  HOW TO SET CUSTOM METADATA</u></b>
 For Example :-
-<code>By @TechifyBots</code>
-💬 For Any Help Contact @TechifySupport
+<code>By @num_33</code>
+💬 For Any Help Contact @num_33
 """
