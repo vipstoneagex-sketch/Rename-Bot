@@ -3,7 +3,7 @@
     "description": "Telegram File Renamer Bot",
     "logo": "https://graph.org/file/ada3f739fed7efdbe7b08.jpg",
     "keywords": ["Premium Rename Bot", "Renamer Bot 4GB", "Mongo DB"],    
-    "repository": "https://github.com/TechifyBots/Rename-Bot",
+    "repository": "https://github.com/vipstoneagex-sketch/Rename-Bot",
     
     "env": {
         "API_ID": {
